@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **samruddhahonawade@gmail.com**
 
-- ⚡ Fun fact **There is no 100% Security on Internet**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
