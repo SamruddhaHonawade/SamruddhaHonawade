@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Samruddha Honawde</h1>
-<h3 align="center">A passionate Pentester and Cyber Security enthusiast from India</h3>
+<h3 align="center">A passionate computer science engineering Student & Cyber Security enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Pentesting,Networking Security**
 
